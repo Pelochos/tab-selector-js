@@ -20,9 +20,9 @@ A simple tab selector built using HTML, CSS and vanilla JavaScript (no libraries
 
 tab-selector-js/<br>
 ├── LICENCE/<br>
-├── README.md # Project description and notes/<br>
-├── index.html # Markup and tab layout/<br>
-├── styles.css # Styling for tabs, active states and animations/<br>
+├── README.md # Project description and notes<br>
+├── index.html # Markup and tab layout<br>
+├── styles.css # Styling for tabs, active states and animations<br>
 └── index.js # JavaScript logic for tab switching
 
 
