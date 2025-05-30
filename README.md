@@ -35,7 +35,6 @@ Clone the repo:
 1. Clone the repo.
 2. Open `index.html` in your browser.<br>
    (No build tools or setup required.)<br>
-<br>
 <h2></h2>
 <br>
 📌 Planned Improvements
