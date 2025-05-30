@@ -34,9 +34,8 @@ You can view the live version of the login page on [GitHub Pages](https://peloch
 Clone the repo:
 1. Clone the repo.
 2. Open `index.html` in your browser.<br>
-   (No build tools or setup required.)<br>
+   (No build tools or setup required.)
 <h2></h2>
-<br>
 📌 Planned Improvements
 
     Use data-* attributes to improve flexibility
