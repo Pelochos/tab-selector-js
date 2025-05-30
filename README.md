@@ -36,6 +36,8 @@ Clone the repo:
 2. Open `index.html` in your browser.<br>
    (No build tools or setup required.)<br>
 <br>
+<hr>
+<br>
 📌 Planned Improvements
 
     Use data-* attributes to improve flexibility
