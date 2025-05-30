@@ -30,7 +30,7 @@ tab-selector-js/
 To try it out:
 You can view the live version of the login page on [GitHub Pages](https://pelochos.github.io/tab-selector-js/). Simply visit the link, and you’ll be able to see the page in action, including the responsive design and interactive elements.
 
-## Alternatively:-
+### Alternatively:-
 Clone the repo:
    ```bash
    git clone https://github.com/Pelochos/tab-selector-js.git
