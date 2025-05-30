@@ -18,10 +18,10 @@ A simple tab selector built using HTML, CSS and vanilla JavaScript (no libraries
 
 ## 📁 File Structure
 
-tab-selector-js/
-├── index.html # Markup and tab layout
-├── styles.css # Styling for tabs, active states and animations
-├── index.js # JavaScript logic for tab switching
+tab-selector-js/<br>
+├── index.html # Markup and tab layout/<br>
+├── styles.css # Styling for tabs, active states and animations/<br>
+├── index.js # JavaScript logic for tab switching/<br>
 └── README.md # Project description and notes
 
 
@@ -32,13 +32,9 @@ You can view the live version of the login page on [GitHub Pages](https://peloch
 
 ### Alternatively:-
 Clone the repo:
-   ```bash
-   git clone https://github.com/Pelochos/tab-selector-js.git
-   cd tab-selector-js
-
-    Open index.html in your browser.
-
-No build tools or setup required.
+1. Clone the repo.
+2. Open `index.html` in your browser.
+   (No build tools or setup required.)<br>
 📌 Planned Improvements
 
     Use data-* attributes to improve flexibility
