@@ -19,10 +19,11 @@ A simple tab selector built using HTML, CSS and vanilla JavaScript (no libraries
 ## 📁 File Structure
 
 tab-selector-js/<br>
-├── README.md # Project description and notes<br>
-├── index.html # Markup and tab layout/
+├── LICENCE/<br>
+├── README.md # Project description and notes/<br>
+├── index.html # Markup and tab layout/<br>
 ├── styles.css # Styling for tabs, active states and animations/<br>
-└── index.js # JavaScript logic for tab switching/<br>
+└── index.js # JavaScript logic for tab switching
 
 
 
@@ -46,3 +47,6 @@ Clone the repo:
     Animate tab transitions
 
     Refactor JavaScript to use event delegation
+
+## License
+MIT — use freely for personal or commercial projects.
